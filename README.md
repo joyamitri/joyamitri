@@ -20,6 +20,7 @@ unlock insights. Ready to contribute dynamic skills and drive innovation in your
 
 🌟 When I'm not coding, you'll often find me exploring the latest technologies, honing my skills, or simply enjoying the great outdoors. Let's connect and collaborate on your next project!
 
+<!-- Connect section -->
 ### <h2>Connect With Me:</h2>
 <hr>
 <p align="left">
@@ -27,3 +28,11 @@ unlock insights. Ready to contribute dynamic skills and drive innovation in your
 <a href="linkedin.com/in/joya-maria-mitri-070571216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joya-maria-mitri" height="30" width="40" /></a>
 <a href="mailto:joya_mitri@hotmail.com" target="blank"><img align="center" src="./outlook-svgrepo-com.svg" alt="joya-maria-mitri" height="40" width="40" /></a>
 </p>
+
+<!-- GitHub section -->
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyamitri" alt="Joya's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyamitri&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Joya's language" height="192px"  width="500px"/>
+</div>
