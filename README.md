@@ -3,9 +3,6 @@
     
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyamitri&label=Profile%20views&color=CBAACB style=flat" alt="isrealodejobi" />
-</p>
-
 <h3 align="center">A passionate Data Scientist from Lebanon LB</h3>
 
 <br/>
