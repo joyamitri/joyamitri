@@ -25,5 +25,5 @@ unlock insights. Ready to contribute dynamic skills and drive innovation in your
 <p align="left">
 <a href="https://instagram.com/joyamitri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joyamitri" height="30" width="40" /></a>
 <a href="linkedin.com/in/joya-maria-mitri-070571216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joya-maria-mitri" height="30" width="40" /></a>
-<a mailto="joya_mitri@hotmail.com" target="blank"><img align="center" src="./outlook-svgrepo-com.svg" alt="joya-maria-mitri" height="30" width="40" /></a>
+<a href="mailto:joya_mitri@hotmail.com" target="blank"><img align="center" src="./outlook-svgrepo-com.svg" alt="joya-maria-mitri" height="40" width="40" /></a>
 </p>
