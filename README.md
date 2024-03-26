@@ -6,3 +6,8 @@
 <h3 align="center">A passionate Data Scientist from Lebanon LB</h3>
 
 <br/>
+
+---
+✨ Bioinformatics graduate from LAU with a flair for Data Science. I seamlessly blend biology and data to 
+unlock insights. Ready to contribute dynamic skills and drive innovation in your team.
+
