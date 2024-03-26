@@ -62,7 +62,7 @@ unlock insights. Ready to contribute dynamic skills and drive innovation in your
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 
 <!-- GitHub section -->
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ ## <h2>My GitHub Stats</h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
 <div style="text-align: center;">
     <div style="display: block; margin-bottom: 20px;">
@@ -73,10 +73,10 @@ unlock insights. Ready to contribute dynamic skills and drive innovation in your
     </div>
 </div>
 
-###
+<!-- Contribution section -->
+ ## <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
