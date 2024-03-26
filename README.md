@@ -72,3 +72,11 @@ unlock insights. Ready to contribute dynamic skills and drive innovation in your
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyamitri&theme=omni" alt="Streak Stats" style="height: 180px; width: 400px;" />
     </div>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
