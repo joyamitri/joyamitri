@@ -22,7 +22,6 @@ unlock insights. Ready to contribute dynamic skills and drive innovation in your
 
 <!-- Connect section -->
 ### <h2>Connect With Me:</h2>
-<hr>
 <p align="left">
 <a href="https://instagram.com/joyamitri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joyamitri" height="30" width="40" /></a>
 <a href="linkedin.com/in/joya-maria-mitri-070571216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joya-maria-mitri" height="30" width="40" /></a>
@@ -32,7 +31,11 @@ unlock insights. Ready to contribute dynamic skills and drive innovation in your
 <!-- GitHub section -->
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyamitri" alt="Joya's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyamitri&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Joya's language" height="192px"  width="500px"/>
+<div style="text-align: center;">
+    <div style="display: block; margin-bottom: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=joyamitri&show_icons=true&theme=onedark&locale=en" alt="GitHub Stats" style="height: 180px; width: 400px;" />
+    </div>
+    <div style="display: block;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyamitri&theme=radical" alt="Streak Stats" style="height: 180px; width: 400px;" />
+    </div>
 </div>
