@@ -33,9 +33,9 @@ unlock insights. Ready to contribute dynamic skills and drive innovation in your
  
 <div style="text-align: center;">
     <div style="display: block; margin-bottom: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=joyamitri&show_icons=true&theme=onedark&locale=en" alt="GitHub Stats" style="height: 180px; width: 400px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=joyamitri&show_icons=true&theme=omni&locale=en" alt="GitHub Stats" style="height: 180px; width: 400px;" />
     </div>
     <div style="display: block;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyamitri&theme=radical" alt="Streak Stats" style="height: 180px; width: 400px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=joyamitri&theme=omni" alt="Streak Stats" style="height: 180px; width: 400px;" />
     </div>
 </div>
