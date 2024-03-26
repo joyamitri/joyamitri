@@ -19,3 +19,10 @@ unlock insights. Ready to contribute dynamic skills and drive innovation in your
 💼 As a freelancer, I've had the privilege of working with diverse clients and tackling exciting projects. From basic websites to developing robust applications, I thrive on delivering solutions that exceed expectations.
 
 🌟 When I'm not coding, you'll often find me exploring the latest technologies, honing my skills, or simply enjoying the great outdoors. Let's connect and collaborate on your next project!
+
+### <h2>Connect With Me:</h2>
+<hr>
+<p align="left">
+<a href="linkedin.com/in/joya-maria-mitri-070571216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joya-maria-mitri" height="30" width="40" /></a>
+<a href="https://instagram.com/joyamitri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joyamitri" height="30" width="40" /></a>
+</p>
