@@ -10,6 +10,9 @@
 
 <!-- About section -->
 ---
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
 ✨ Bioinformatics graduate from LAU with a flair for Data Science. I seamlessly blend biology and data to 
 unlock insights. Ready to contribute dynamic skills and drive innovation in your team.
 
